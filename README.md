@@ -19,7 +19,7 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
-### How to start this exercise
+### How to start this exercise -->
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
